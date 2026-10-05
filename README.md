@@ -29,10 +29,10 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · SQL · C#
+**Languages:** Python · SQL 
 **Data Science:** Pandas · NumPy · Scikit-learn · Machine Learning
 **Cloud:** AWS (EC2, S3, ECS, ECR, IAM, CloudWatch)
-**Tools:** Docker · Linux · Git · TensorFlow · OpenCV
+**Tools:** Linux · Git · TensorFlow
 
 ---
 
